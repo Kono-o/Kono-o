@@ -1,16 +1,29 @@
-## Hi there 👋
+## hi 👋
+kon.oo 
 
-<!--
-**Kono-o/Kono-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🟣[`amelix`](https://discord.gg/FabqwVzgyD)
 
-Here are some ideas to get you started:
+🦀 rust · 🐍 python · 🐚 zsh · 🧠 jetbrains  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 projects
+
+[`kargo`](https://github.com/Kono-o/kargo) — cargo wrapper
+
+[`mcas`](https://github.com/Kono-o/mcas) — texture pack cli
+
+[`nerve`](https://github.com/Kono-o/nerve) — rust game engine
+
+[`artguessr`](https://github.com/Kono-o/artguessr) — geoguessr for art
+
+[`vcb3d`](https://github.com/Kono-o/vcb3d) — [vcb](https://www.virtualcircuitboard.com/) in 3d
+
+[`coral`](https://github.com/Kono-o/coral) — mc to 3d model 
+
+[`amelix`](https://github.com/Kono-o/amelix-assets) — amelix assets
+
+[`assets`](https://github.com/Kono-o/konos-asset-lib) — kono's assets
+
+
+---
