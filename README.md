@@ -3,9 +3,7 @@ Kono, `kon.oo`
 
 🟣[`AMELIX`](https://discord.gg/FabqwVzgyD)
 
-🦀 rust · 🐍 python
-
-🐚 zsh · 🧠 jetbrains  
+🦀 rust · 🐍 python 
 
 ---
 
